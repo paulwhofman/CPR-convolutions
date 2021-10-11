@@ -1,1 +1,2 @@
 # CPR-convolutions
+Conceptor-based pseudo-rehearsal [He, 2018](https://marcpickett.com/cl2018/CL-2018_paper_55.pdf) for convolutional neural networks. The mnist_continual notebook has the most comments and links to further explanations, it should run without problems after changing the data directory. The cityscapes_continual notebook uses the Cityscapes dataset, which can be downloaded from https://www.cityscapes-dataset.com/ (requires a login). 
